@@ -1,1 +1,2 @@
 # JS-asian-restaurant-hw
+Bu basit çalışma bir kurs ödevidir. Javascript obje dizisi olarak yer bulmuş yemekler listesini içerisinde yer alan "çeşit butonlarına" tıklanınca, ilgili çeşitler listelenmektedir. Front-end ağırlıklı bir çalışmadır. Sitenin orjinali https://ayerdelen.github.io/AsianKitchen/ adresinde yer almaktadır. Bu çalışma, temel dosyalar üzerine JS kodu eklenmesiyle oluşturulmuştur. Umarım beğenirsiniz... Kodluyoruz'a teşekkür ediyorum.
